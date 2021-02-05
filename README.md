@@ -31,7 +31,7 @@ by THE DREAM TEAM : RENA TABAL, AYCA ERKUS, HAMZA MHADI
 
 # DATA SUMMARY:
 
-![data_summary] (https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/data_summary.png?raw=true)
+![data_summary](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/data_summary.png?raw=true)
 
 
 # FINDINGS :
@@ -43,7 +43,7 @@ Bitcoin and Ethereum are more volatile than Gold
 
 Bitcoin and Ethereum had disproportionately larger returns than Gold for the remainder of 2020 
 
-![crypto_gold] (https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/crypto_vs_gold.png?raw=true)
+![crypto_gold](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/crypto_vs_gold.png?raw=true)
 
 
 - BITCOIN VS FX FLUCTUATION:
@@ -51,20 +51,20 @@ As seen in Venezuela, Argentina and Brazil, countries with devalued currencies a
 
 Correlation vs Causation: cannot 100% determine country investment in cryptocurrency effect BTC price increase
 
-![forex] (https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/crypto_vs_fx.png?raw=true)
+![forex](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/crypto_vs_fx.png?raw=true)
 
 
 - BITCOIN VS ALT COINS:
 BTC and ETH show similar growth trends, ETH more volatile 
 
-![altcoin_volatility] (https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin_2.png?raw=true)
+![altcoin_volatility](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin_2.png?raw=true)
 
 Stellar (XLM) and Ripple (XRP) show similar growth trends and volatility based on daily and cumulative returns and standard deviation. Tether is flat 
 
-![altcoin_creturn] (https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin.png?raw=true)
+![altcoin_creturn](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin.png?raw=true)
 
 General increase in cryptocurrency investment since July 2020. The larger returns in Ethereum are likely due to the increasing trends in blockchain/smart contract technology and DeFi projects using Ethereum blockchain
 
-![altcoin] (https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin_3.png?raw=true)
+![altcoin](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin_3.png?raw=true)
 
 
