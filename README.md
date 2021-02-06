@@ -37,6 +37,7 @@ by THE DREAM TEAM : RENA TABAL, AYCA ERKUS, HAMZA MHADI
 ## FINDINGS :
 
 - BITCOIN VS GOLD:
+  
   Investors resorted to Gold rather than Bitcoin during March 20201
   
   Bitcoin and Ethereum are more volatile than Gold 
@@ -47,6 +48,7 @@ by THE DREAM TEAM : RENA TABAL, AYCA ERKUS, HAMZA MHADI
 
 
 - BITCOIN VS FX FLUCTUATION:
+  
   As seen in Venezuela, Argentina and Brazil, countries with devalued currencies against the USD want to invest in cryptocurrencies
 
   Correlation vs Causation: cannot 100% determine country investment in cryptocurrency effect BTC price increase
@@ -55,6 +57,7 @@ by THE DREAM TEAM : RENA TABAL, AYCA ERKUS, HAMZA MHADI
 
 
 - BITCOIN VS ALT COINS:
+  
   BTC and ETH show similar growth trends, ETH more volatile 
 
 ![altcoin_volatility](https://github.com/hmhadi/Project_1/blob/a_analysis_1/images/btc_vs_altcoin_2.png?raw=true)
